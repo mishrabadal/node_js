@@ -1,0 +1,1 @@
+fs.unlinkSync(`${dirPath}/fruit.txt`);
